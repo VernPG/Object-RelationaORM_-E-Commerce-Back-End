@@ -68,7 +68,7 @@ router.post("/", async (req, res) => {
       res.status(400).json(err);
     });
 });
-
+//WHAT AM I DOING FROM LINES 73-114 IF ANYTHING AT ALL??
 // update product
 router.put("/:id", (req, res) => {
   // update product data
