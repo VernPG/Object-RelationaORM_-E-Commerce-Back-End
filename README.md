@@ -1,4 +1,4 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+#  Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Description 
     Internet retail, also known as **e-commerce**, plays a significant role within the electronics industry, as it empowers businesses and consumers alike to conveniently engage in online buying and selling of electronic products. In the latest available data from 2021, the industry in the United States alone was estimated to have generated the substantial amount of US$2.54 trillion, according to the United Nations Conference on Trade and Development. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
@@ -37,4 +37,4 @@ THEN I am able to successfully create, update, and delete data in my database
   ## Images and Repo
   ![Preview Image](./assets/Screenshot%202023-11-21%20at%204.27.48 PM.png)
 
-  ** [Link to video can be found HERE]()
+  ** [Link to video can be found HERE](https://drive.google.com/file/d/1t7tctiJ8Bkl7iYt9DY37surx4kfgah1e/view)
